@@ -9,14 +9,11 @@
 
 UIMark        每一个需要生成的属性都要AddUIMark添加上标签 也可以手动添加上去  类型识别不对的话可以手动调一下  有两个指定类型 第一种是已经有的    第二种是需要自动创建脚本的 得输入类名
 
-![1554790305957](C:\Users\Mloong\AppData\Local\Temp\1554790305957.png)
 
-![1554790324596](C:\Users\Mloong\AppData\Local\Temp\1554790324596.png)
 
 AddUIMark  就直接物体右键添加就好
 
-![1554790568452](C:\Users\Mloong\AppData\Local\Temp\1554790568452.png)
+![1554790568452](E:\git_data\KGScriptGenerator\1554790568452.png)
 
 打完标签  直接生成脚本就好
 
-![1554790855070](C:\Users\Mloong\AppData\Local\Temp\1554790855070.png)
